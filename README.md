@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> 
 
-- 🔭 I’m currently working on [DayNightPrint]([https://www.daynightprint.co.uk/]), [JumpIntoJob]([https://www.daynightprint.co.uk/]), [BDsafa]([https://www.bdsafa.com]), [Unitech Holdings Ltd]([https://www.UnitechHoldingsLtd.com]), 
+- 🔭 I’m currently working on [DayNightPrint](https://www.daynightprint.co.uk/), [JumpIntoJob](https://www.daynightprint.co.uk/), [BDsafa](https://www.bdsafa.com), [Unitech Holdings Ltd](https://www.UnitechHoldingsLtd.com), 
 
 - 🌱 I’m currently learning **design patterns and problem solving**
 
